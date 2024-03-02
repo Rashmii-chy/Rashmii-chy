@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmii-chy&label=Profile%20views&color=0e75b6&style=flat" alt="rashmii-chy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashmii-chy" alt="rashmii-chy" /></a> </p>
-
 - 🏫 I’m currently pursuing **Bachelors of Computer Applications**
 
 - 🌱 I’m currently learning **DevOps**
